@@ -18,7 +18,11 @@ Mi objetivo es dominar las bases de Python para saltar al Análisis de Datos, Ci
 * #### [🚀 Mini proyectos](./mini_proyectos/)
     Proyectos donde combino todo lo aprendido.
 * #### [📚 Lecciones diarias](./lecciones_del_dia/)
+<<<<<<< HEAD
     Scripts sueltos de mis prácticas (¡Cuidado, zona en construcción! ⚠️).
+=======
+    Scripts sueltos de mis prácticas (¡Cuidado, zona altamente desordenada! ⚠️).
+>>>>>>> 20d840606bff0a29a8a0ceda2dc1bdcd57eff177
 
 ## 🛠️ Herramientas y Entorno
 Para que todo funcione como en mi máquina:
