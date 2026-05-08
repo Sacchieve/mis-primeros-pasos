@@ -19,8 +19,6 @@ Mi objetivo es dominar las bases de Python para saltar al Análisis de Datos, Ci
     Proyectos donde combino todo lo aprendido.
 * #### [📚 Lecciones diarias](./lecciones_del_dia/)
     Scripts sueltos de mis prácticas (¡Cuidado, zona en construcción! ⚠️).
-* #### [📝 Comentarios Extras (Logs)](./logs/)
-    Mi diario autodidacta: dudas, crisis existenciales con el código y resúmenes.
 
 ## 🛠️ Herramientas y Entorno
 Para que todo funcione como en mi máquina:
