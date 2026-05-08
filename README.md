@@ -8,7 +8,7 @@
 Mi objetivo es dominar las bases de Python para saltar al Análisis de Datos, Ciencia de Datos y Machine Learning.
 
 **Mi hoja de ruta incluye:**
-- [x] Manejo de Bucles, Funciones y Colecciones.
+- [ ] Manejo de Bucles, Funciones y Colecciones.
 - [ ] Programación Orientada a Objetos (Clases y Objetos).
 - [ ] Conexión a bases de datos y manejo de archivos.
 - [ ] Librerías especializadas: **NumPy, Pandas, TensorFlow o PyTorch**.
